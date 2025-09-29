@@ -3,7 +3,7 @@ Hi there! I'm Grant. I'm a Game Application and Technology student in Binus Univ
 I'm currently learning and taking the role as a game programmer. 
 
 📧 Contact me
-Email: grant.saputra@binus.ac.id
+- Email: grant.saputra@binus.ac.id
 
 <table>
   <thead>
