@@ -6,9 +6,17 @@ I'm currently learning and taking the role as a game programmer.
 Email: grant.saputra@binus.ac.id
 
 <table>
+  <thead>
   <tr>
-    
+    <th width="50%" align="center"><a>Black and White Space Invaders</a></th>
   </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/Iamkurokiji/Iamkurokiji/blob/main/BlackandWhiteSpaceInvaders.gif" alt="1" style="width:100%;height:auto;">
+    </tr>
+  </tbody>
 </table>
 
 
