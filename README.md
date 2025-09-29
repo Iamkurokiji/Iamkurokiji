@@ -15,6 +15,10 @@ Email: grant.saputra@binus.ac.id
     <tr>
       <td align="center">
         <img src="https://github.com/Iamkurokiji/Iamkurokiji/blob/main/BlackandWhiteSpaceInvaders.gif" alt="1" style="width:100%;height:auto;">
+      </td>
+    </tr>
+    <tr>
+    <td valign="text-top">It's a game I tried making based on the real Space Invaders but it's black and white. The ship player and the alien is traced by me using Aseprite</td>
     </tr>
   </tbody>
 </table>
